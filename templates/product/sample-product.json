@@ -1,0 +1,419 @@
+{
+  "additionalAttributions": {
+      "accuracy": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/accuracy/15_1",
+              "title": "平均月差：±15秒"
+          }
+      ],
+      "alarmsAndHourlyTimeSignal": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/alarmsandhourlytimesignal/alarms/alarms_028",
+              "title": "時刻アラーム5本・時報"
+          }
+      ],
+      "app": [],
+      "appFunctions": [],
+      "backEngraving": [],
+      "backlightImage": [],
+      "band": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/exterior_function/band/band_material/resinb",
+              "title": "樹脂バンド"
+          }
+      ],
+      "bandAdjustableLength": "145～215mm",
+      "batteryAndBatteryLife": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/batteryandbatterylife/batterylife/3year_1",
+              "title": "電池寿命：約3年"
+          },
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/batteryandbatterylife/battery/sr726w-2",
+              "title": "使用電池：SR726W-2"
+          }
+      ],
+      "batteryOperatingTime": [],
+      "batteryPowerIndicator": [],
+      "beltColor": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/color/watch/black",
+              "title": "ブラック"
+          }
+      ],
+      "bezelColor": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/color/watch/black",
+              "title": "ブラック"
+          }
+      ],
+      "bezelFunctions": [],
+      "buttonOperationTone": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/buttonoperationtone/bot_01",
+              "title": "操作音ON/OFF切替機能"
+          }
+      ],
+      "calendar": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/calendar/fullautocalendar1",
+              "title": "フルオートカレンダー"
+          }
+      ],
+      "caseBezel": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/exterior_function/casebezel/cb_material/carbon_resin",
+              "title": "カーボン／樹脂"
+          }
+      ],
+      "countdownTimer": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/countdowntimer/ct_1_second/ct_1s_011",
+              "title": "タイマー（セット単位：1秒、最大セット：24時間、1秒単位で計測）"
+          }
+      ],
+      "crown": [],
+      "description": "",
+      "displayIllumination": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/displayillumination/double_led/dl_005",
+              "title": "ダブルLEDライト：\n文字板用LEDライト（スーパーイルミネーター、残照機能、残照時間切替（1.5秒/3秒）付き）、\nLCD部用LEDバックライト（スーパーイルミネーター、残照機能、残照時間切替（1.5秒/3秒）付き）"
+          }
+      ],
+      "displayType": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/exterior_function/displaytype/digital-analog",
+              "title": "Digital-Analog"
+          }
+      ],
+      "divingFunctions": [],
+      "environmentalResistance": [],
+      "faceColor": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/color/watch/black",
+              "title": "ブラック"
+          }
+      ],
+      "faceSize": {
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/exterior_function/facesize/mens",
+          "title": "MEN'S"
+      },
+      "faceType": [],
+      "glass": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/exterior_function/glass/glass-m",
+              "title": "無機ガラス"
+          }
+      ],
+      "handHomePositionCorrection": [],
+      "includedItems": "",
+      "isSpecialPackageJP": false,
+      "isSpecialPackageOther": false,
+      "mobileLink": [],
+      "moonData": [],
+      "movementType": [],
+      "options": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/option/product/b/ba/ban/bandgs02p-1/BANDGS02P-1",
+              "title": "1983年の発売以来、飽くなき強さを求めて進化を続けるタフネスウォッチG-SHOCKからレバー操作で、バンドの付け替えが可能なスライドレバー式の交換用バンドです。\n耐衝撃構造は維持しつつ、バンドの着脱・交換が簡単にでき、G-SHOCKの楽しみ方を広げます。\n\n※ 対応モデル（2025年1月現在）\nDW-5610/DWE-5600/DWE-5610/GA-2100/GA-2110/GAE-2100/GBM-2100/GM-2100*/GM-5600*/GM-6900/GA-B2100\n*一部対応していないモデルがありますのでご注意ください\n具体的な対応モデルはオプションページでご確認ください"
+          },
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/option/product/b/ba/ban/bandgs02p-7/BANDGS02P-7",
+              "title": "1983年の発売以来、飽くなき強さを求めて進化を続けるタフネスウォッチG-SHOCKからレバー操作で、バンドの付け替えが可能なスライドレバー式の交換用バンドです。\n耐衝撃構造は維持しつつ、バンドの着脱・交換が簡単にでき、G-SHOCKの楽しみ方を広げます。\n\n※ 対応モデル（2025年1月現在）\nDW-5610/DWE-5600/DWE-5610/GA-2100/GA-2110/GAE-2100/GBM-2100/GM-2100*/GM-5600*/GM-6900/GA-B2100\n*一部対応していないモデルがありますのでご注意ください\n具体的な対応モデルはオプションページでご確認ください"
+          }
+      ],
+      "otherFunctions": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/otherfunctions/change12_24_01",
+              "title": "12/24時間制表示切替"
+          },
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/otherfunctions/hand_evacuation/he_005",
+              "title": "針退避機能（針が液晶表示と重なって見づらいときは、針を液晶表示の上から一時的に退避させることができます）"
+          }
+      ],
+      "others": [],
+      "packageImage": [],
+      "powerSaving": [],
+      "resist": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/exterior_function/resist/resist-shock",
+              "title": "耐衝撃構造（ショックレジスト）"
+          },
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/exterior_function/resist/cabon-core",
+              "title": "カーボンコアガード構造"
+          }
+      ],
+      "sellingPoints": [
+          {
+              "description": "",
+              "fields": {
+                  "alt": "衝撃に強い",
+                  "displayText": "衝撃に強い",
+                  "featureModalDescription": "仕事やスポーツ、フィールドでのアクティビティで、ぶつけたり、落としたりしても壊れにくい構造のため、アクティブなライフスタイルを過ごす人におすすめ。",
+                  "featureModalImage": "/content/dam/casio/global/common/selling-point/timepieces/62_shock.png",
+                  "featureModalTitle": "衝撃に強い",
+                  "image": "/content/dam/casio/global/common/selling-point/timepieces/62_shock.png"
+              },
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/selling_point/resistance/shock-resistant",
+              "title": "衝撃に強い"
+          },
+          {
+              "description": "",
+              "fields": {
+                  "alt": "20気圧防水",
+                  "displayText": "20気圧防水",
+                  "featureModalDescription": "<p>日常の水仕事をはじめ、サーフィン、ジェットスキーなどのマリンスポーツやウォーターアクティビティまで、水を使う幅広いシーンで使用できる。</p>\n",
+                  "featureModalImage": "/content/dam/casio/global/common/selling-point/timepieces/04_20bar.png",
+                  "featureModalTitle": "20気圧防水",
+                  "image": "/content/dam/casio/global/common/selling-point/timepieces/04_20bar.png"
+              },
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/selling_point/resistance/20bar",
+              "title": "20気圧防水"
+          },
+          {
+              "description": "",
+              "fields": {
+                  "alt": "カジュアルデザイン",
+                  "displayText": "カジュアルデザイン",
+                  "featureModalDescription": "Tシャツやパーカー、トレーナーなどカジュアルなアイテムのアクセントにも最適。自分好みのスタイルや服装に合わせて着用できる。",
+                  "featureModalTitle": "カジュアルデザイン"
+              },
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/selling_point/style/casual",
+              "title": "カジュアルデザイン"
+          },
+          {
+              "description": "",
+              "fields": {
+                  "alt": "薄型で装着性が良い",
+                  "displayText": "薄型で装着性が良い",
+                  "featureModalDescription": "スマートな薄型で、腕にフィットする優れた装着性。毎日着けたくなるような快適な着け心地。モダンで洗練された印象を演出する。",
+                  "featureModalTitle": "薄型で装着性が良い"
+              },
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/selling_point/style/slim",
+              "title": "薄型で装着性が良い"
+          },
+          {
+              "description": "",
+              "fields": {
+                  "alt": "軽くて強い（カーボン）",
+                  "displayText": "軽くて強い（カーボン）",
+                  "featureModalDescription": "軽くて強いカーボン素材を使用しているため、ケース構造の進化や素材の美しさ・多様なデザインを表現できる。",
+                  "featureModalTitle": "軽くて強い（カーボン）"
+              },
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/selling_point/material/light-strong",
+              "title": "軽くて強い（カーボン）"
+          },
+          {
+              "description": "",
+              "fields": {
+                  "alt": "シンプルデザイン",
+                  "displayText": "シンプルデザイン",
+                  "featureModalDescription": "ベーシックで飽きのこないシンプルなデザイン。場所やシーンを問わずに幅広く活躍。自分好みのスタイルや服装に合わせて着用できる。",
+                  "featureModalTitle": "シンプルデザイン"
+              },
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/selling_point/style/simple-design",
+              "title": "シンプルデザイン"
+          }
+      ],
+      "sensorFunctionDescription": "",
+      "sensorFunctions": [],
+      "stopwatch": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/stopwatch/1_100_second/1_100_015",
+              "title": "ストップウオッチ（1/100秒（1時間未満）／1秒（1時間以上）、24時間計、スプリット付き）"
+          }
+      ],
+      "sunriseSunsetTimeDisplay": [],
+      "tideGraph": [],
+      "timeAdjustment": [],
+      "timeAdjustmentDescription": [],
+      "watchBack": [],
+      "waterResistant": {
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/exterior_function/waterresist/wp-200",
+          "title": "20気圧防水"
+      },
+      "worldTime": [
+          {
+              "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/module_function/worldtime/worldtime/wt_074",
+              "title": "ワールドタイム：世界48都市（31タイムゾーン、サマータイム設定機能付き）＋UTC（協定世界時）の時刻表示"
+          }
+      ]
+  },
+  "brand": {
+      "i18n": "G-SHOCK",
+      "id": "p-category:watch/g-shock",
+      "productPageRootPath": "/products/watches/gshock",
+      "title": "G-SHOCK"
+  },
+  "category": {
+      "i18n": "ウオッチ",
+      "id": "p-category:watch",
+      "title": "watch"
+  },
+  "commerceData": {},
+  "confirmationDescription": "",
+  "confirmationTitle": "",
+  "countriesOfSales": [
+      {
+          "id": "locales:countries/jp",
+          "title": "Japan"
+      }
+  ],
+  "depth": 11.8,
+  "description": "究極の強さを求めて進化を続けるタフネスウオッチG-SHOCKから、初代モデル“DW-5000C”のコンセプトを受け継ぎ、更なる薄型化を果たしたデジタル・アナログコンビネーションモデルです。\n初代モデル“DW-5000C”にも採用された“八角形フォルム”を継承。タフな構造はそのままに無駄を省いたシンプルなデザインのコンビネーションモデルを開発しました。\n更にケース素材には、高剛性を発揮するカーボン繊維入りファインレジンを使用し、厚さ11.8mmを実現しました。\nカラーはG-SHOCKらしいブラックアウトを採用しています。",
+  "descriptionShort": "",
+  "height": 48.5,
+  "hideInSalesSite": false,
+  "hideInSite": false,
+  "highPriorityPromotionAssetsNpr": [],
+  "id": "d61a5aad-a483-4991-a58b-954fdebc0e0a",
+  "isEndOfProduction": false,
+  "isHideStoreLocatorButton": false,
+  "isOnlineOnly": false,
+  "isRepairOnly": false,
+  "jan": "4549526241666",
+  "lightColor": [
+      {
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/feature/exterior_function/lightcolor/led/led_white",
+          "title": "LED：ホワイト"
+      }
+  ],
+  "listPrice": 17600,
+  "manualPageUrl": "https://support.casio.jp/manualsearch.php?cid=002&MODULE=5611",
+  "model": "/content/dam/casio/product-info/locales/jp/ja/timepiece/model/watch/G/GA/GA2/GA-2100/GA-2100",
+  "modelName": "GA-2100",
+  "module": "/content/dam/casio/product-info/locales/jp/ja/timepiece/module/watch/5/56/561/5611/5611",
+  "moduleNumber": "5611",
+  "originalLanguage": {
+      "id": "locales:languages/ja",
+      "title": "Japanese"
+  },
+  "originalProductPagePath": "/content/casio/locales/jp/ja/products/watches/gshock/product.GA-2100-1A1.html",
+  "otherPromotionAssetsNpr": [],
+  "outOfSalesArea": false,
+  "personalizationTags": [],
+  "plating": [],
+  "productAssets": [],
+  "productAssetsJson": [
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq01.png",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_model01.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq02.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq03.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq04.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq05.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq06.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq07.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq08.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq09.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq10.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_model02.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_model03.jpg",
+          "size": ""
+      },
+      {
+          "alt": "",
+          "caption": "",
+          "path": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_model.mp4",
+          "size": ""
+      }
+  ],
+  "productCFPath": "/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/GA-2100-1A1",
+  "productDisplayName": "GA-2100-1A1JF",
+  "productName": "GA-2100-1A1",
+  "productType": "Normal Product",
+  "promotionText": "",
+  "relatedPromotionAssetsNpr": [],
+  "releaseDate": "2019-08-20T00:00:00+09:00",
+  "search": [],
+  "series": [
+      {
+          "id": "p-category:watch/g-shock/combination/2100-series",
+          "title": "2100 Series"
+      }
+  ],
+  "sku": "GA-2100-1A1JF",
+  "socialProofingData": {
+      "pv": 4322,
+      "sales": 12
+  },
+  "stretchCutAssetsNpr": [],
+  "subBrand": [
+      {
+          "i18n": "ANALOG-DIGITAL",
+          "id": "p-category:watch/g-shock/combination",
+          "title": "ANALOG-DIGITAL"
+      },
+      {
+          "id": "p-category:watch/g-shock/iconic",
+          "title": "ICONIC"
+      }
+  ],
+  "url": "https://test-www-casio-com-aem.casio.jp/jp/watches/gshock/product.GA-2100-1A1/",
+  "weight": 51,
+  "width": 45.4
+}
