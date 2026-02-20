@@ -3,3 +3,6 @@ mountpoints:
     url: "https://author-p185042-e1942345.adobeaemcloud.com/bin/franklin.delivery/hkoizumi3/universal-editor-eds-xwalk/main"
     type: "markup"
     suffix: ".html"
+    overlay:
+      url: "https://json2html.adobeaem.workers.dev/hkoizumi3/universal-editor-eds-xwalk/main"
+      type: "markup"
