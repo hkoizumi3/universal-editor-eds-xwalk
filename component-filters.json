@@ -17,7 +17,13 @@
       "columns",
       "fragment",
       "quote",
-      "image-link"
+      "image-link",
+      "accordion",
+      "carousel",
+      "embed",
+      "tabs",
+      "table",
+      "video"
     ]
   },
   {
