@@ -1,0 +1,39 @@
+/* Image Link Block Styles */
+.image-link {
+  display: block;
+  margin: 1rem 0;
+  width: 100%;
+}
+
+.image-link a {
+  text-decoration: none;
+  transition: opacity 0.3s ease;
+  line-height: 0;
+}
+
+.image-link a:hover {
+  opacity: 0.85;
+}
+
+.image-link a:focus-visible {
+  outline: 2px solid var(--color-primary, #1a73e8);
+  outline-offset: 4px;
+}
+
+.image-link picture {
+  display: block;
+  line-height: 0;
+}
+
+.image-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Responsive breakpoint: 768px */
+@media (width <= 767px) {
+  .image-link {
+    margin: 0.75rem 0;
+  }
+}
