@@ -19,6 +19,7 @@
       "quote",
       "image-link",
       "accordion",
+      "carousel",
       "embed",
       "tabs",
       "table",
@@ -35,6 +36,12 @@
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "carousel",
+    "components": [
+      "carousel-item"
     ]
   },
   {
